@@ -1,0 +1,11 @@
+.borde{
+  border-width: 2px 2px 0px 2px;
+  border-style: solid;
+  border-color: red;
+  }
+  .fondo_rosa{
+      background-color: rgb(226, 119, 176);
+  }
+  .fondo_morado{
+      background-color: rgb(183, 109, 214);
+  }
